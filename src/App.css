@@ -1,16 +1,91 @@
+body {
+  background-color: #f3f5f5;
+
+  height: 100%;
+  width: 100%;
+}
+header {
+  left: 10px;
+  position: relative;
+}
+.page {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
 .App {
   text-align: center;
+  min-height: 500px;
+  width: 400px;
+  margin: 90px;
+  background-color: #f3f5f5;
+
+  top: 150px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.taskManager {
+  background-color: #fff;
+  border-bottom: 4px solid #b1a18f;
+  width: 100%;
+  height: 90px;
+  top: 0px;
+  position: relative;
+  font-size: 20px;
+  color: #a59684;
+  line-height: 75px;
+  font-weight: 700;
+  font-size: 35px;
+  left: 0px;
+}
+.photo {
+  position: absolute;
+  top: 19.5px;
+  left: 50%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#todo-form {
+  white-space: nowrap;
+}
+.react-calendar {
+  top: 150px;
+  left: 360px;
+  position: absolute;
+  font-size: 20px;
+}
+#todo-form input {
+  background-color: #fff;
+  border: #e3e3e3 1px solid;
+  width: 200px;
+  height: 50px;
+  padding: 0px;
+  margin: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: #b1a18f;
+}
+#todo-form input::placeholder {
+  color: #b1a18f;
+  font-size: 18px;
+}
+
+#todo-form input:focus {
+  outline: none;
+}
+
+#todo-form button {
+  height: 50px;
+  width: 80px;
+  border-radius: 80px;
+  border: 0;
+  background-color: #b1a18f;
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+  font-size: 16px;
+}
+#todo-form button:focus {
+  outline: none;
 }
 
 .App-header {
@@ -26,6 +101,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.custom {
+  white-space: nowrap;
 }
 
 @keyframes App-logo-spin {

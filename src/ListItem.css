@@ -1,0 +1,49 @@
+.list {
+  color: #a59684;
+  width: 350px;
+  background-color: #fff;
+  height: 250px;
+  margin: 10px auto;
+  border-radius: 5px;
+  position: relative;
+  top: 80px;
+  white-space: wrap;
+}
+.mylist {
+  top: 270px;
+  position: absolute;
+}
+
+.list p {
+  top: 15px;
+  font-size: 17px;
+  position: absolute;
+}
+
+.firstSpan {
+  top: 150px;
+  right: 50px;
+}
+
+.secondSpan {
+  top: 150px;
+  right: 10px;
+}
+
+.list p span {
+  position: absolute;
+
+  cursor: pointer;
+}
+
+.list p input {
+  background-color: transparent;
+  border: 0;
+  color: #a59684;
+  font-size: 18px;
+}
+
+.icons {
+  margin: 0 5px;
+  font-size: 16px;
+}
