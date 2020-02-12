@@ -23,8 +23,8 @@ let start = {
   borderColor: "#FFF",
   zIndex: "2",
   transition: "0.5s",
-  top: "630px",
-  left: "380px",
+  top: "460px",
+  left: "210px",
   zIndex: "4",
   position: "absolute"
 };
@@ -33,19 +33,23 @@ let homepageStyle = {
   fontSize: "19px",
   fontWeight: "600",
   height: "100%",
+  width: "100%",
   position: "relative",
   marginTop: "0px"
 };
 
 let imageStyle = {
   backgroundSize: "cover",
+  height: "100%",
+  width: "100%",
+
   zIndex: "3"
 };
 
 let welcomeStyle = {
   color: "#888888",
-  top: "460px",
-  left: "325px",
+  top: "295px",
+  left: "155px",
   zIndex: "4",
   position: "absolute",
   fontSize: "30px",
