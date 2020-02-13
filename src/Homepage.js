@@ -24,7 +24,7 @@ let start = {
   zIndex: "2",
   transition: "0.5s",
   top: "400px",
-  left: "175px",
+  left: "160px",
   zIndex: "4",
   position: "absolute"
 };
