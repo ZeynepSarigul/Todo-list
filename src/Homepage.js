@@ -24,7 +24,7 @@ let start = {
   zIndex: "2",
   transition: "0.5s",
   top: "460px",
-  left: "210px",
+  left: "205px",
   zIndex: "4",
   position: "absolute"
 };
@@ -49,7 +49,7 @@ let imageStyle = {
 let welcomeStyle = {
   color: "#888888",
   top: "295px",
-  left: "155px",
+  left: "150px",
   zIndex: "4",
   position: "absolute",
   fontSize: "30px",
