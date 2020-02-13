@@ -72,7 +72,7 @@ let myWelcome = {
   left: "22px",
   zIndex: "4",
   position: "absolute",
-  fontSize: "30px",
+  fontSize: "20px",
   lineHeight: "45px"
 };
 
