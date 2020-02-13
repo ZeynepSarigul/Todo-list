@@ -23,7 +23,7 @@ let start = {
   borderColor: "#FFF",
   zIndex: "2",
   transition: "0.5s",
-  top: "420px",
+  top: "400px",
   left: "175px",
   zIndex: "4",
   position: "absolute"
@@ -60,7 +60,7 @@ let welcomeStyle = {
 let to = {
   color: "#888888",
 
-  left: "90px",
+  left: "60px",
   zIndex: "4",
   position: "absolute",
   fontSize: "17px",
