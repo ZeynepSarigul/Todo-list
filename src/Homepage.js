@@ -52,7 +52,7 @@ let welcomeStyle = {
   left: "150px",
   zIndex: "4",
   position: "absolute",
-  fontSize: "30px",
+  fontSize: "22px",
   lineHeight: "45px",
   fontFamily: "Lemonada, cursive"
 };
@@ -63,13 +63,13 @@ let to = {
   left: "90px",
   zIndex: "4",
   position: "absolute",
-  fontSize: "27px",
+  fontSize: "17px",
   lineHeight: "45px"
 };
 let myWelcome = {
   color: "#888888",
 
-  left: "30px",
+  left: "22px",
   zIndex: "4",
   position: "absolute",
   fontSize: "30px",
