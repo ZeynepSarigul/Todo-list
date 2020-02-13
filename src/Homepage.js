@@ -23,8 +23,8 @@ let start = {
   borderColor: "#FFF",
   zIndex: "2",
   transition: "0.5s",
-  top: "460px",
-  left: "195px",
+  top: "420px",
+  left: "175px",
   zIndex: "4",
   position: "absolute"
 };
@@ -48,7 +48,7 @@ let imageStyle = {
 
 let welcomeStyle = {
   color: "#888888",
-  top: "295px",
+  top: "255px",
   left: "150px",
   zIndex: "4",
   position: "absolute",
