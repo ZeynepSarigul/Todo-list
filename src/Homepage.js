@@ -24,7 +24,7 @@ let start = {
   zIndex: "2",
   transition: "0.5s",
   top: "460px",
-  left: "205px",
+  left: "195px",
   zIndex: "4",
   position: "absolute"
 };
@@ -52,7 +52,7 @@ let welcomeStyle = {
   left: "150px",
   zIndex: "4",
   position: "absolute",
-  fontSize: "22px",
+  fontSize: "20px",
   lineHeight: "45px",
   fontFamily: "Lemonada, cursive"
 };
