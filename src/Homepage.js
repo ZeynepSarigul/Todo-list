@@ -53,7 +53,7 @@ let welcomeStyle = {
   zIndex: "4",
   position: "absolute",
   fontSize: "20px",
-  lineHeight: "45px",
+
   fontFamily: "Lemonada, cursive"
 };
 
